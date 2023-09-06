@@ -15,7 +15,9 @@ Mahindra and Mahindra wants to run a digital ad campaign to complement its exist
 P.S. Brownie points for any additional actionable insights you can draw from the dataset. 
 
 Original Dataset: https://docs.google.com/spreadsheets/d/1yJFmmREp4gzUJdNSc3_z-SPnlkrSM0IN/edit?usp=sharing&ouid=118410320923325257723&rtpof=true&sd=true
+
 working dataset: https://docs.google.com/spreadsheets/d/1cy7TN4xiEFF0pW8EL6RRbUL89co3MrgP/edit?usp=sharing&ouid=118410320923325257723&rtpof=true&sd=true
+
 Video explaination: https://drive.google.com/file/d/1BRR-uBSqRuZqREceSN9K4ti8FHAG44cZ/view?usp=sharing
 
 
